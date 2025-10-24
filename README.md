@@ -1,5 +1,5 @@
 # 💫 Hi, I’m Ava
-🌷 Aspiring Software Engineer<br>🎓 Computer Science student at Southern New Hampshire University<br>✨ Currently diving into an interest in reverse engineering 
+🌷 Aspiring Software Engineer<br>🎓 Computer Science student at Southern New Hampshire University<br>✨ Currently interested in reverse engineering 
 
 
 ## 🌐 Socials
