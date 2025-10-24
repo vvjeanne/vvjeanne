@@ -7,5 +7,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=vvjeanne&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=vvjeanne&icon=0&color=8)](https://visitcount.itsvg.in)
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ava-j-lindgren) 
